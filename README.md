@@ -1,5 +1,7 @@
 # Virtual Piano
 
+**Live Demo:** [https://virtual-piano-hand-tracking.vercel.app/](https://virtual-piano-hand-tracking.vercel.app/)
+
 **Aethera Piano** is a browser-based virtual instrument that lets you play piano with your hands — using only a webcam. Real-time hand tracking maps your fingertips to keys, Tone.js synthesizes the sound, and you can record performances and export them as standard MIDI files.
 
 Everything runs locally in the browser. No account, no cloud API key, and no video leaves your machine.
@@ -20,9 +22,9 @@ Everything runs locally in the browser. No account, no cloud API key, and no vid
 
 ## Demo
 
-Run the app locally (see [Getting Started](#getting-started)), then open `http://localhost:3000`.
+Try it live: **[virtual-piano-hand-tracking.vercel.app](https://virtual-piano-hand-tracking.vercel.app/)**
 
-> A hosted live demo URL can be added here once you deploy the project (for example on Vercel or GitHub Pages).
+Or run locally (see [Getting Started](#getting-started)) and open `http://localhost:3000`.
 
 ## Screenshots
 
@@ -157,7 +159,8 @@ By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Ideas under consideration (not commitments):
 
-- [ ] Hosted demo deployment + README screenshots
+- [x] Hosted demo deployment
+- [ ] README screenshots
 - [ ] Additional keyboard ranges / octave shift controls
 - [ ] Improved mobile layout for the piano workspace
 - [ ] Optional computer-keyboard shortcuts for notes
