@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Piano",
+  "description": "Play a virtual piano using real-time hand tracking from your webcam, with built-in synthesis, chord detection, and MIDI export.",
+  "author": "Mohsin Ali"
+}
